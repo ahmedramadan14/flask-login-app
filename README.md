@@ -24,8 +24,9 @@ A simple authentication system built with Flask that supports user registration,
 - HTML / CSS (Jinja2 templates)
 
 ---
-
 ## 📁 Project Structure
+
+
 flask_login_app/
 │
 ├── app.py
