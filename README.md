@@ -25,8 +25,6 @@ A simple authentication system built with Flask that supports user registration,
 
 ---
 ## 📁 Project Structure
-
-
 flask_login_app/
 │
 ├── app.py
@@ -40,3 +38,4 @@ flask_login_app/
 │
 ├── .gitignore
 └── README.md
+
