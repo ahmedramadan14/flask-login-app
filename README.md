@@ -24,18 +24,3 @@ A simple authentication system built with Flask that supports user registration,
 - HTML / CSS (Jinja2 templates)
 
 ---
-## 📁 Project Structure
-flask_login_app/
-│
-├── app.py
-├── templates/
-│ ├── index.html
-│ ├── login.html
-│ ├── signup.html
-│ ├── dashboard.html
-│ ├── edit_profile.html
-│ └── change_password.html
-│
-├── .gitignore
-└── README.md
-
